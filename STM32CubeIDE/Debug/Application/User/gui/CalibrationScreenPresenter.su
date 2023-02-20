@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/calibrationscreen_screen/CalibrationScreenPresenter.hpp:28:13:CalibrationScreenPresenter::~CalibrationScreenPresenter()	0	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/calibrationscreen_screen/CalibrationScreenPresenter.cpp:10:6:virtual void CalibrationScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/calibrationscreen_screen/CalibrationScreenPresenter.hpp:28:13:virtual CalibrationScreenPresenter::~CalibrationScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/calibrationscreen_screen/CalibrationScreenPresenter.hpp:28:13:virtual void* CalibrationScreenPresenter::_ZThn4_N26CalibrationScreenPresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/calibrationscreen_screen/CalibrationScreenPresenter.hpp:28:13:virtual void* CalibrationScreenPresenter::_ZThn4_N26CalibrationScreenPresenterD0Ev()	16	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/calibrationscreen_screen/CalibrationScreenPresenter.cpp:4:1:CalibrationScreenPresenter::CalibrationScreenPresenter(CalibrationScreenView&)	4	static

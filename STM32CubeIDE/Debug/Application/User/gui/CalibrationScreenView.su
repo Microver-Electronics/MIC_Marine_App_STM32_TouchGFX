@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/calibrationscreen_screen/CalibrationScreenView.cpp:13:6:virtual void CalibrationScreenView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/calibrationscreen_screen/CalibrationScreenView.hpp:11:13:CalibrationScreenView::~CalibrationScreenView()	8	static
+../../TouchGFX/gui/include/gui/calibrationscreen_screen/CalibrationScreenView.hpp:11:13:virtual CalibrationScreenView::~CalibrationScreenView()	8	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/calibrationscreen_screen/CalibrationScreenView.cpp:3:1:CalibrationScreenView::CalibrationScreenView()	8	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/calibrationscreen_screen/CalibrationScreenView.cpp:8:6:virtual void CalibrationScreenView::setupScreen()	0	static

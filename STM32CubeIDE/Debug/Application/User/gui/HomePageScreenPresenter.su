@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/homepagescreen_screen/HomePageScreenPresenter.hpp:28:13:HomePageScreenPresenter::~HomePageScreenPresenter()	0	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/homepagescreen_screen/HomePageScreenPresenter.cpp:10:6:virtual void HomePageScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/homepagescreen_screen/HomePageScreenPresenter.hpp:28:13:virtual HomePageScreenPresenter::~HomePageScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/homepagescreen_screen/HomePageScreenPresenter.hpp:28:13:virtual void* HomePageScreenPresenter::_ZThn4_N23HomePageScreenPresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/homepagescreen_screen/HomePageScreenPresenter.hpp:28:13:virtual void* HomePageScreenPresenter::_ZThn4_N23HomePageScreenPresenterD0Ev()	16	static
+C:/Users/erhan/Documents/Microver/MarineAppWithCAN/TouchGFX/gui/src/homepagescreen_screen/HomePageScreenPresenter.cpp:4:1:HomePageScreenPresenter::HomePageScreenPresenter(HomePageScreenView&)	4	static
